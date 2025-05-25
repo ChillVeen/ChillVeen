@@ -1,4 +1,4 @@
-# Hi, I'm [Praveen Singh] 👋
+# Hi, I'm Praveen Singh 👋
 
 - 🚀 iOS Developer & AI/ML Enthusiast at Apple Developer Academy Napoli
 - 🎓 B.E. in Engineering Sciences | Thesis: Facial Recognition on Jetson Nano
