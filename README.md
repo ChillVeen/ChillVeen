@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm [Praveen Singh] 👋
 
-<!--
-**ChillVeen/ChillVeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 iOS Developer & AI/ML Enthusiast at Apple Developer Academy Napoli
+- 🎓 B.E. in Engineering Sciences | Thesis: Facial Recognition on Jetson Nano
+- 💡 Interested in iOS, Cybersecurity, AI/ML, and IT innovation
 
-Here are some ideas to get you started:
+## 🔧 Skills
+Swift | Python | OpenCV | Machine Learning | iOS | Cybersecurity | Git | Agile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+- [Whisper](https://github.com/ChillVeen/Whisper): Privacy-first E2EE chat app for iOS.
+- [PoStars](https://github.com/ChillVeen/PoStars): Interactive astronomy education platform.
+
+*Open to iOS, AI/ML, Cybersecurity, and IT roles!*
+
