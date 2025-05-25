@@ -11,5 +11,4 @@ Swift | Python | OpenCV | Machine Learning | iOS | Cybersecurity | Git | Agile
 - [Whisper](https://github.com/ChillVeen/Whisper): Privacy-first E2EE chat app for iOS.
 - [PoStars](https://github.com/ChillVeen/PoStars): Interactive astronomy education platform.
 
-*Open to iOS, AI/ML, Cybersecurity, and IT roles!*
 
