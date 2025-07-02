@@ -1,15 +1,16 @@
 # Hi, I'm Praveen Singh 👋
 
-- 🚀 iOS Developer & AI/ML Enthusiast at Apple Developer Academy
+- 🚀 iOS Developer, Cybersecurity & AI/ML at Apple Developer Academy
 - 🎓 B.E. in Engineering Sciences | Thesis: Facial Recognition on Jetson Nano
 - 💡 Interested in iOS, Cybersecurity, AI/ML, and IT innovation
 
 ## 🔧 Skills
-Swift | Python | OpenCV | Machine Learning | iOS | Cybersecurity | Git | Agile
+Swift | Python | OpenCV | C++ | Machine Learning | iOS | Cybersecurity | Git | Agile
 
 ## 🌟 Featured Projects
+- [iSwing](https://github.com/ChillVeen/iSwing): Game of Golf just a wrist away.
 - [Whisper](https://github.com/ChillVeen/Whisper): Privacy-first E2EE chat app for iOS.
-- [PoStars](https://github.com/ChillVeen/PoStars): Interactive astronomy education platform.
+- [PoStars](https://github.com/ChillVeen/PoStars): Interactive astronomy stargazing platform.
 
 ## 📫 Connect with me
 
